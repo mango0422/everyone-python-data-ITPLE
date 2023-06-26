@@ -50,3 +50,9 @@ hello_world()
 
 - https://pandas.pydata.org/docs/user_guide/10min.html  
   위 링크는 pandas 공식 홈페이지에 나와있는 튜토리얼이다.
+
+## 3. 데이터를 시각적으로 표현하기 - matplotlib 기초
+
+이제 우리의 목표 중 나머지 반은 그래프로 나타내는 것이다.  
+파이썬에서 그래프를 그리는 가장 기초적인 모듈은 matplotlib이다.  
+이 모듈의 사용법은 아주 간편해서 쉽게 접근할 수 있다.  
